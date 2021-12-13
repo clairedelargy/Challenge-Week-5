@@ -15,6 +15,6 @@ THEN the text for that event is saved in local storage<br>
 WHEN I refresh the page<br>
 THEN the saved events persist<br>
 
-![ScreenShot](https://github.com/clairedelargy/Challange-Week5/blob/main/Capture.JPG)
+![ScreenShot](https://github.com/clairedelargy/Challenge-Week-5/blob/main/Capture.JPG)
 
 Here is a [link](https://clairedelargy.github.io/Challenge-Week-5/) to the website!
